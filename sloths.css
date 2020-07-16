@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(94, 51, 27);
+    color: white;
+    margin: 0 auto;
+    padding: 0;
+}
+
+h1 {
+    background-color: green;
+    color: whitesmoke;
+    margin: 0;
+    padding: 20px;
+    align-text: center;
+}
+
+section {
+    width: 1200px;
+    margin: 50px;
+}
+
+img {
+    width: 400px;
+    float: left;
+}
+
+ul {
+    float: left;
+}

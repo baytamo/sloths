@@ -10,12 +10,7 @@ h1 {
     color: whitesmoke;
     margin: 0;
     padding: 20px;
-    align-text: center;
-}
-
-section {
-    width: 1200px;
-    margin: 50px;
+    text-align: center;
 }
 
 img {

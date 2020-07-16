@@ -19,7 +19,6 @@ section {
     padding: 40px;
     display: block;
     border-bottom: 1px dotted #eeeeee;
-    overflow-wrap: break-word;
 }
 img {
     width: 400px;
@@ -44,6 +43,6 @@ footer {
     clear: both;
 }
 
-*, *::after, *::before {
+*, *::after {
     box-sizing: border-box;
   }

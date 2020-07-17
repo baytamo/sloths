@@ -30,12 +30,9 @@ ul {
     padding-left: 50px;
 }
 
-footer {
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-    padding: 2px;
-}
+*, *::after, *::before {
+    box-sizing: border-box;
+  }
 
 .clearfix::after {
     content: " ";
@@ -43,6 +40,9 @@ footer {
     clear: both;
 }
 
-*, *::after {
-    box-sizing: border-box;
-  }
+footer {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 2px;
+}
